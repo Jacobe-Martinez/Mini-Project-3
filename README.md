@@ -1,4 +1,40 @@
 # Mini-Project #3: Database & Backend API Integration
+## Design & Requirements
+
+### Project Goal
+The goal of Mini Project 3 was to extend my existing Mini Project 2 into a full-stack application by adding a backend API and database using the MVC architecture.
+
+### User Capabilities
+Users can:
+- View a catalog of sample custom apparel products
+- Filter and search products by category and text
+- Submit a quote request for a custom item
+
+Admins (via Postman) can:
+- Create, read, update, and delete products
+- View and manage quote requests
+
+### Functional Requirements
+- Products must be stored in a database instead of static JSON
+- The database must be populated on server startup
+- The backend must support full CRUD operations
+- The application must follow the MVC pattern
+- Backend functionality must be demonstrable using Postman
+
+### Data Design
+The application uses MongoDB with two main collections:
+-Products
+-Quotes
+
+Each product stores name, price, category, description, and image.
+Each quote stores user contact information and design request details.
+
+### Visual Layout
+The frontend layout was designed in Mini Project 2 and includes:
+- A products page with cards displaying sample items
+- A quote request form positioned below the products grid
+
+The visual design remained consistent while the data source was upgraded to use the backend API.
 
 ## Overview
 
