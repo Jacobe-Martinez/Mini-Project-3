@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Retro Wave Tee",
+    "category": "T-Shirt",
+    "price": 25,
+    "image": "images/retrow.webp",
+    "description": "Vibrant retro wave design pressed on a soft black tee."
+  },
+  {
+    "id": 2,
+    "name": "Team Spirit Shirt",
+    "category": "T-Shirt",
+    "price": 22,
+    "image": "images/ttss.webp",
+    "description": "Perfect for school teams, clubs, or group events."
+  },
+  {
+    "id": 3,
+    "name": "Minimal Quote Hoodie",
+    "category": "Hoodie",
+    "price": 40,
+    "image": "images/wh.jpg",
+    "description": "Simple quote design on a cozy hoodie. You choose the words."
+  },
+  {
+    "id": 4,
+    "name": "Kids Birthday Tee",
+    "category": "Kids",
+    "price": 20,
+    "image": "images/kids.webp",
+    "description": "Fun, colorful design for birthday parties and celebrations."
+  },
+  {
+    "id": 5,
+    "name": "Cozy Logo Sweatshirt",
+    "category": "Sweatshirt",
+    "price": 38,
+    "image": "images/ws.jpg",
+    "description": "Warm fleece sweatshirt with your custom logo front and center."
+  }
+]
